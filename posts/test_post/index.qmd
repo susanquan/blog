@@ -1,0 +1,13 @@
+---
+title: "First test post"
+author: "TV"
+date: "2024-01-05"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+This is a firsdt post with executable code.
+
+```{r}
+1 + 1
+```
